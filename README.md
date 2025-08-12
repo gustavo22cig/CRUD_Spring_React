@@ -1,4 +1,4 @@
-<h1 align="center">CRUD con Spring Boot + React</h1>
+<h1>CRUD con Spring Boot + React</h1>
 
 # 🚀 CRUD con Spring Boot + React + MySQL
 
